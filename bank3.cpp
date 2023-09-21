@@ -164,8 +164,8 @@ int main() {
 
     while (true) {
         if (active_account_index == -1) {
-            cout<<"                                WELCOME                               \n";
-            cout<<"****************************BANK OF BHARAT****************************\n";
+            cout<<"                              WELCOME                               \n";
+            cout<<"********************** STATE BANK OF BHARAT ****************************\n";
             cout << "\n\t\t\tBanking System Menu:\n" << endl;
             cout << "1. Create New Account\t\t";
             cout << "2. Log In\t\t";
